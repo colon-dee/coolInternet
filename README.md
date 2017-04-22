@@ -21,6 +21,11 @@
 * [Higher Intellect](https://preterhuman.net/)
 * [Gentoomen Library](https://g.sicp.me/books/)
 
+#### Survival
+
+* [NomadWiki](http://nomadwiki.org/en/Main_Page)
+* [TrashWiki](http://trashwiki.org/en/Main_Page)
+* [StealThisWiki](https://stw.darknedgy.net/)
 
 #### Misc
 
