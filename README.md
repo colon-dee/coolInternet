@@ -17,6 +17,11 @@
 * [Server World](https://www.server-world.info/en/)
 
 
+#### Music
+
+* [Time to code](https://www.youtube.com/playlist?list=PLp1Iptn_9GYzU9gn3EcjEy9tFYx2tZEVl&jct=jkqCqHzPmYVh8owuS1dFTlPhoIZ1YA)
+
+
 #### Privacy
 
 * [PrivacyTools](https://privacytoolsio.github.io/privacytools.io/)
