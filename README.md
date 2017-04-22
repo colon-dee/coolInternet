@@ -20,3 +20,8 @@
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [Higher Intellect](https://preterhuman.net/)
 * [Gentoomen Library](https://g.sicp.me/books/)
+
+
+#### Misc
+
+* [Server World](https://www.server-world.info/en/)
