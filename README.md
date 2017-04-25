@@ -21,11 +21,13 @@
 #### Mathematics
 
 * [Matemática elementar](http://www.mat.ufrgs.br/~portosil/licenciatura.html)
+* [NRICH](http://nrich.maths.org/)
 
 
 #### Misc
 
 * [Server World](https://www.server-world.info/en/)
+* [Science4All](http://www.science4all.org/)
 
 
 #### Music
@@ -41,6 +43,8 @@
 #### Programming
 
 * [Composing Programs](http://www.composingprograms.com/)
+* [Project Euler](https://projecteuler.net/)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 
 #### Survival
