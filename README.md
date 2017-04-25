@@ -5,11 +5,22 @@
 * [A Beginner’s Guide to Biohacking](https://blog.bulletproof.com/beginners-guide-to-biohacking-101/)
 
 
+#### Comics
+
+* [XKCD](https://xkcd.com/)
+* [Existential Comics](http://existentialcomics.com/)
+
+
 #### Libraries
 
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [Higher Intellect](https://preterhuman.net/)
 * [Gentoomen Library](https://g.sicp.me/books/)
+
+
+#### Mathematics
+
+* [Matemática elementar](http://www.mat.ufrgs.br/~portosil/licenciatura.html)
 
 
 #### Misc
