@@ -11,11 +11,17 @@
 * [Existential Comics](http://existentialcomics.com/)
 
 
+#### Encryption
+
+* [Easy Ciphers](http://easyciphers.com/)
+
+
 #### Libraries
 
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [Higher Intellect](https://preterhuman.net/)
 * [Gentoomen Library](https://g.sicp.me/books/)
+* [Project Gutenberg](http://www.gutenberg.org/ebooks/14091?msg=welcome_stranger)
 
 
 #### Mathematics
@@ -28,6 +34,7 @@
 
 * [Server World](https://www.server-world.info/en/)
 * [Science4All](http://www.science4all.org/)
+* [Shell Central](http://shell-central.com/pic_link/)
 
 
 #### Music
@@ -38,6 +45,9 @@
 #### Privacy
 
 * [PrivacyTools](https://privacytoolsio.github.io/privacytools.io/)
+* [Buro Jansen & Janssen](https://www.burojansen.nl/)
+* [AntiPolygraph](https://antipolygraph.org/)
+* [PT7AA - Telegrafia](https://pt7aa.jimdo.com/)
 
 
 #### Programming
@@ -52,3 +62,9 @@
 * [NomadWiki](http://nomadwiki.org/en/Main_Page)
 * [TrashWiki](http://trashwiki.org/en/Main_Page)
 * [StealThisWiki](https://stw.darknedgy.net/)
+* [LockpickingFrance](https://www.lockpickingfrance.org/index-p.html)
+
+
+#### Torrents
+
+* [aznh's TPB uploads](https://thepiratebay.ltd/user/aznh/)
