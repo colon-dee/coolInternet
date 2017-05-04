@@ -28,6 +28,7 @@
 
 * [Matemática elementar](http://www.mat.ufrgs.br/~portosil/licenciatura.html)
 * [NRICH](http://nrich.maths.org/)
+* [Wolfram MathWorld](http://mathworld.wolfram.com/)
 
 
 #### Misc
@@ -35,6 +36,7 @@
 * [Server World](https://www.server-world.info/en/)
 * [Science4All](http://www.science4all.org/)
 * [Shell Central](http://shell-central.com/pic_link/)
+* [PT7AA - Telegrafia](https://pt7aa.jimdo.com/)
 
 
 #### Music
@@ -47,7 +49,6 @@
 * [PrivacyTools](https://privacytoolsio.github.io/privacytools.io/)
 * [Buro Jansen & Janssen](https://www.burojansen.nl/)
 * [AntiPolygraph](https://antipolygraph.org/)
-* [PT7AA - Telegrafia](https://pt7aa.jimdo.com/)
 
 
 #### Programming
