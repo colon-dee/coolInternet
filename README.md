@@ -29,6 +29,7 @@
 * [Matemática elementar](http://www.mat.ufrgs.br/~portosil/licenciatura.html)
 * [NRICH](http://nrich.maths.org/)
 * [Wolfram MathWorld](http://mathworld.wolfram.com/)
+* [Brilliant](https://brilliant.org/)
 
 
 #### Misc
