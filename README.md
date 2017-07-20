@@ -59,6 +59,8 @@
 * [Project Euler](https://projecteuler.net/)
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
+#### Social Engineering
+* [Security Through Education](https://www.social-engineer.org/)
 
 #### Survival
 
