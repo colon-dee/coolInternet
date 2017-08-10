@@ -30,6 +30,7 @@
 * [NRICH](http://nrich.maths.org/)
 * [Wolfram MathWorld](http://mathworld.wolfram.com/)
 * [Brilliant](https://brilliant.org/)
+* [Math ∩ Programming](https://jeremykun.com/)
 
 
 #### Misc
