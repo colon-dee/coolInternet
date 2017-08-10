@@ -31,6 +31,7 @@
 * [Wolfram MathWorld](http://mathworld.wolfram.com/)
 * [Brilliant](https://brilliant.org/)
 * [Math ∩ Programming](https://jeremykun.com/)
+* [Interactive Mathematics](http://www.intmath.com/)
 
 
 #### Misc
