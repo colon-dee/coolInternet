@@ -18,7 +18,8 @@
 
 #### Libraries
 
-* [Library Genesis](http://gen.lib.rus.ec/)
+* [Library Genesis](http://libgen.io/)
+* [Library Genesis (for scientific articles)](https://libgen.pw/)
 * [Higher Intellect](https://preterhuman.net/)
 * [Gentoomen Library](https://g.sicp.me/books/)
 * [Project Gutenberg](http://www.gutenberg.org/ebooks/14091?msg=welcome_stranger)
