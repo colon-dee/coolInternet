@@ -11,6 +11,11 @@
 * [Existential Comics](http://existentialcomics.com/)
 
 
+#### Computer Science
+
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+
 #### Encryption
 
 * [Easy Ciphers](http://easyciphers.com/)
